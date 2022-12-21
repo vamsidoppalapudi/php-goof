@@ -36,4 +36,5 @@ if(isset($_POST['save_task'])){
 
 header('Location: index.php');
 
+//Adding comment to get this file scanned by Snyk over Pull requst
 ?>
